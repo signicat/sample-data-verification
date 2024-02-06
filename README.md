@@ -2,7 +2,7 @@
 
 Sample code in ASP.NET Core to test the Signicat Data Verification API.
 
-> ** This repository is for demo purposes only **
+> **This repository is for demo purposes only**
 
 ## Documentation
 
